@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1b05096.chunk.css",
+    "main.js": "/static/js/main.db8ef0b1.chunk.js",
+    "main.js.map": "/static/js/main.db8ef0b1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a3e2fd79.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a3e2fd79.js.map",
+    "static/js/2.4bf6385f.chunk.js": "/static/js/2.4bf6385f.chunk.js",
+    "static/js/2.4bf6385f.chunk.js.map": "/static/js/2.4bf6385f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b308dd177b40fbacbf895fc07cce8e31.js": "/precache-manifest.b308dd177b40fbacbf895fc07cce8e31.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.4bf6385f.chunk.js.LICENSE.txt": "/static/js/2.4bf6385f.chunk.js.LICENSE.txt",
+    "static/media/happersBazaar.jpg": "/static/media/happersBazaar.201a343c.jpg",
+    "static/media/paris.jpeg": "/static/media/paris.92000258.jpeg",
+    "static/media/switzerland.jpeg": "/static/media/switzerland.4ad2099f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3e2fd79.js",
+    "static/js/2.4bf6385f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.db8ef0b1.chunk.js"
+  ]
+}
