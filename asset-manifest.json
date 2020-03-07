@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sriyaT/Carousel/static/css/main.d1b05096.chunk.css",
+    "main.js": "/sriyaT/Carousel/static/js/main.852ffd1e.chunk.js",
+    "main.js.map": "/sriyaT/Carousel/static/js/main.852ffd1e.chunk.js.map",
+    "runtime-main.js": "/sriyaT/Carousel/static/js/runtime-main.76e757bd.js",
+    "runtime-main.js.map": "/sriyaT/Carousel/static/js/runtime-main.76e757bd.js.map",
+    "static/js/2.4bf6385f.chunk.js": "/sriyaT/Carousel/static/js/2.4bf6385f.chunk.js",
+    "static/js/2.4bf6385f.chunk.js.map": "/sriyaT/Carousel/static/js/2.4bf6385f.chunk.js.map",
+    "index.html": "/sriyaT/Carousel/index.html",
+    "precache-manifest.57b0a40844d562a5d4ee567cafa3b22d.js": "/sriyaT/Carousel/precache-manifest.57b0a40844d562a5d4ee567cafa3b22d.js",
+    "service-worker.js": "/sriyaT/Carousel/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/sriyaT/Carousel/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.4bf6385f.chunk.js.LICENSE.txt": "/sriyaT/Carousel/static/js/2.4bf6385f.chunk.js.LICENSE.txt",
+    "static/media/happersBazaar.jpg": "/sriyaT/Carousel/static/media/happersBazaar.201a343c.jpg",
+    "static/media/paris.jpeg": "/sriyaT/Carousel/static/media/paris.92000258.jpeg",
+    "static/media/switzerland.jpeg": "/sriyaT/Carousel/static/media/switzerland.4ad2099f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76e757bd.js",
+    "static/js/2.4bf6385f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.852ffd1e.chunk.js"
+  ]
+}
