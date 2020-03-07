@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/sriyaT/Carousel/static/css/main.d1b05096.chunk.css",
-    "main.js": "/sriyaT/Carousel/static/js/main.852ffd1e.chunk.js",
-    "main.js.map": "/sriyaT/Carousel/static/js/main.852ffd1e.chunk.js.map",
-    "runtime-main.js": "/sriyaT/Carousel/static/js/runtime-main.76e757bd.js",
-    "runtime-main.js.map": "/sriyaT/Carousel/static/js/runtime-main.76e757bd.js.map",
-    "static/js/2.4bf6385f.chunk.js": "/sriyaT/Carousel/static/js/2.4bf6385f.chunk.js",
-    "static/js/2.4bf6385f.chunk.js.map": "/sriyaT/Carousel/static/js/2.4bf6385f.chunk.js.map",
-    "index.html": "/sriyaT/Carousel/index.html",
-    "precache-manifest.57b0a40844d562a5d4ee567cafa3b22d.js": "/sriyaT/Carousel/precache-manifest.57b0a40844d562a5d4ee567cafa3b22d.js",
-    "service-worker.js": "/sriyaT/Carousel/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/sriyaT/Carousel/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.4bf6385f.chunk.js.LICENSE.txt": "/sriyaT/Carousel/static/js/2.4bf6385f.chunk.js.LICENSE.txt",
-    "static/media/happersBazaar.jpg": "/sriyaT/Carousel/static/media/happersBazaar.201a343c.jpg",
-    "static/media/paris.jpeg": "/sriyaT/Carousel/static/media/paris.92000258.jpeg",
-    "static/media/switzerland.jpeg": "/sriyaT/Carousel/static/media/switzerland.4ad2099f.jpeg"
+    "main.css": "/Carousel/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Carousel/static/js/main.267c96b9.chunk.js",
+    "main.js.map": "/Carousel/static/js/main.267c96b9.chunk.js.map",
+    "runtime-main.js": "/Carousel/static/js/runtime-main.1d9e0b51.js",
+    "runtime-main.js.map": "/Carousel/static/js/runtime-main.1d9e0b51.js.map",
+    "static/js/2.4bf6385f.chunk.js": "/Carousel/static/js/2.4bf6385f.chunk.js",
+    "static/js/2.4bf6385f.chunk.js.map": "/Carousel/static/js/2.4bf6385f.chunk.js.map",
+    "index.html": "/Carousel/index.html",
+    "precache-manifest.3449c61d537a5628ecb296d418f51858.js": "/Carousel/precache-manifest.3449c61d537a5628ecb296d418f51858.js",
+    "service-worker.js": "/Carousel/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Carousel/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.4bf6385f.chunk.js.LICENSE.txt": "/Carousel/static/js/2.4bf6385f.chunk.js.LICENSE.txt",
+    "static/media/happersBazaar.jpg": "/Carousel/static/media/happersBazaar.201a343c.jpg",
+    "static/media/paris.jpeg": "/Carousel/static/media/paris.92000258.jpeg",
+    "static/media/switzerland.jpeg": "/Carousel/static/media/switzerland.4ad2099f.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.76e757bd.js",
+    "static/js/runtime-main.1d9e0b51.js",
     "static/js/2.4bf6385f.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.852ffd1e.chunk.js"
+    "static/js/main.267c96b9.chunk.js"
   ]
 }
